@@ -5,3 +5,11 @@
 - 📫  I’m looking for help with who can help me push the big factories in China and abroad, thank you very much
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=zhuoquany&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)![yanFive](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuoquany&layout=compact&hide_border=true&langs_count=10)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuoquany&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuoquany&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
