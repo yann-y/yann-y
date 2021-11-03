@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @zhuoquany
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
+# Hi there,I'm [zhuoQuan Yan](https://blog.youis.top) 👋  
+- 👀  I’m currently working on back-end development and system design
+- 🌱  I’m currently learning algorithms and golang principle
+- 💞️  I’m looking to receive a back-end development offer from a big factory
+- 📫  I’m looking for help with who can help me push the big factories in China and abroad, thank you very much
 
 [![Nambers's github stats](https://github-readme-stats.vercel.app/api?username=zhuoquany&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
